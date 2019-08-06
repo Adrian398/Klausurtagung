@@ -1,9 +1,16 @@
+channels:
+  - conda-forge
+  - r
 dependencies:
   - matplotlib
   - seaborn
   - numpy
   - pandas
   - rpy2
+  - rise
+  - jupyter_contrib_nbextensions
+  - r-irkernel
+  - r-tidyverse
   - pip
   - pip:
       - julia
