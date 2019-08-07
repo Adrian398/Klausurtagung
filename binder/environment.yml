@@ -1,6 +1,7 @@
 channels:
   - conda-forge
   - r
+  - genepattern
 dependencies:
   - matplotlib
   - seaborn
@@ -9,7 +10,7 @@ dependencies:
   - rpy2
   - rise
   - jupyter_contrib_nbextensions
-  - genepattern jupyter-wysiwyg
+  - jupyter-wysiwyg
   - r-irkernel
   - r-tidyverse
   - pip
