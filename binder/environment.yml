@@ -9,6 +9,7 @@ dependencies:
   - rpy2
   - rise
   - jupyter_contrib_nbextensions
+  - genepattern jupyter-wysiwyg
   - r-irkernel
   - r-tidyverse
   - pip
